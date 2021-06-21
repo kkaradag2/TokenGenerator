@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1DZxgEAdw14JJX082C6MIbHyn+ZUBH/luev49jR0OFKaNwxBoKwbBPu0lQfcVvs9k8ORaAj3gliDReK9p4LjAg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GenerateSignature\\GenerateSignature\\GenerateSignature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemalk\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}

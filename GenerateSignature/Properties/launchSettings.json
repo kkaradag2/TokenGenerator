@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "GenerateSignature": {
+      "commandName": "Project"
+    }
+  }
+}

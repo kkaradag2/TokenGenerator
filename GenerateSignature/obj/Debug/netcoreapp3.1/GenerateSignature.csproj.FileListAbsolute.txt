@@ -1,0 +1,18 @@
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.exe
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.AssemblyInfoInputs.cache
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.AssemblyInfo.cs
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.csprojAssemblyReference.cache
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.csproj.CoreCompileInputs.cache
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.deps.json
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.runtimeconfig.json
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.runtimeconfig.dev.json
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.dll
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\GenerateSignature.pdb
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.csproj.CopyComplete
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.dll
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.pdb
+D:\Projects\GenerateSignature\GenerateSignature\obj\Debug\netcoreapp3.1\GenerateSignature.genruntimeconfig.cache
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\private.key
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\BodyData.json
+D:\Projects\GenerateSignature\GenerateSignature\bin\Debug\netcoreapp3.1\private - Copy.key
